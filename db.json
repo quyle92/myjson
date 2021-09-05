@@ -1,104 +1,306 @@
 {
-  "courses": [
+  "courses": 
+	[
+		{
+			"status": "closed",
+			"name": "american studies",
+			"department": "biomedical studies",
+			"number": 12,
+			"days": "TTh",
+			"times": 4,
+			"prerequisites": "f",
+			"action": "Class"
+		},
+		{
+			"status": "closed",
+			"name": "africa and the americas",
+			"department": "asian studies",
+			"number": 3,
+			"days": "MWF",
+			"times": 64,
+			"prerequisites": "s",
+			"action": "Independent Study"
+		},
 		{
 			"status": "Open",
-			"name": "asian studies",
-			"department": "biomedical studies",
-			"number": 58,
-			"days": "MWF",
-			"times": 40,
+			"name": "american conversation",
+			"department": "biomolecular science",
+			"number": 45,
+			"days": "M-F",
+			"times": 43,
+			"prerequisites": "f",
+			"action": "Independent Study"
+		},
+		{
+			"status": "closed",
+			"name": "biomedical studies",
+			"department": "american studies",
+			"number": 53,
+			"days": "TTh",
+			"times": 85,
 			"prerequisites": "f",
 			"action": "Independent Research"
 		},
 		{
 			"status": "closed",
-			"name": "asian studies",
+			"name": "biomolecular science",
 			"department": "biomolecular science",
-			"number": 60,
+			"number": 69,
 			"days": "M-F",
-			"times": 23,
-			"prerequisites": "f",
-			"action": "Class"
-		},
-		{
-			"status": "Open",
-			"name": "american conversation",
-			"department": "american studies",
-			"number": 5,
-			"days": "MWF",
-			"times": 14,
-			"prerequisites": "f",
-			"action": "Independent Study"
-		},
-		{
-			"status": "Open",
-			"name": "biomedical studies",
-			"department": "art and art history",
-			"number": 95,
-			"days": "M-F",
-			"times": 100,
-			"prerequisites": "f",
+			"times": 87,
+			"prerequisites": "s",
 			"action": "Academic Internship"
 		},
 		{
 			"status": "closed",
-			"name": "american studies",
-			"department": "biology",
-			"number": 56,
+			"name": "art and art history",
+			"department": "american studies",
+			"number": 5,
 			"days": "MWF",
-			"times": 11,
+			"times": 74,
 			"prerequisites": "f",
 			"action": "Class"
 		},
 		{
-			"status": "Open",
-			"name": "asian studies",
-			"department": "asian studies",
-			"number": 24,
-			"days": "M-F",
-			"times": 81,
+			"status": "closed",
+			"name": "biomolecular science",
+			"department": "biology",
+			"number": 7,
+			"days": "TTh",
+			"times": 49,
 			"prerequisites": "s",
-			"action": "Independent Study"
+			"action": "Class"
 		},
 		{
 			"status": "closed",
-			"name": "biomedical studies",
+			"name": "biomolecular science",
+			"department": "biomedical studies",
+			"number": 98,
+			"days": "MWF",
+			"times": 31,
+			"prerequisites": "f",
+			"action": "Independent Study"
+		},
+		{
+			"status": "Open",
+			"name": "art and art history",
+			"department": "africa and the americas",
+			"number": 92,
+			"days": "M-F",
+			"times": 5,
+			"prerequisites": "s",
+			"action": "Academic Internship"
+		},
+		{
+			"status": "Open",
+			"name": "american studies",
+			"department": "biomedical studies",
+			"number": 37,
+			"days": "M-F",
+			"times": 23,
+			"prerequisites": "s",
+			"action": "Class"
+		},
+		{
+			"status": "Open",
+			"name": "africa and the americas",
 			"department": "biomolecular science",
-			"number": 4,
-			"days": "TTh",
-			"times": 77,
+			"number": 62,
+			"days": "M-F",
+			"times": 65,
 			"prerequisites": "s",
 			"action": "Independent Study"
 		},
 		{
 			"status": "Open",
 			"name": "africa and the americas",
-			"department": "africa and the americas",
-			"number": 2,
+			"department": "biomolecular science",
+			"number": 47,
 			"days": "MWF",
-			"times": 27,
-			"prerequisites": "s",
+			"times": 82,
+			"prerequisites": "f",
 			"action": "Academic Internship"
+		},
+		{
+			"status": "closed",
+			"name": "biomolecular science",
+			"department": "american studies",
+			"number": 37,
+			"days": "M-F",
+			"times": 34,
+			"prerequisites": "f",
+			"action": "Independent Study"
 		},
 		{
 			"status": "Open",
 			"name": "biology",
 			"department": "american studies",
-			"number": 17,
+			"number": 67,
+			"days": "TTh",
+			"times": 44,
+			"prerequisites": "s",
+			"action": "Class"
+		},
+		{
+			"status": "Open",
+			"name": "biomolecular science",
+			"department": "biomolecular science",
+			"number": 3,
 			"days": "M-F",
-			"times": 80,
+			"times": 95,
+			"prerequisites": "s",
+			"action": "Independent Research"
+		},
+		{
+			"status": "Open",
+			"name": "africa and the americas",
+			"department": "biology",
+			"number": 52,
+			"days": "MWF",
+			"times": 52,
+			"prerequisites": "s",
+			"action": "Academic Internship"
+		},
+		{
+			"status": "Open",
+			"name": "american studies",
+			"department": "africa and the americas",
+			"number": 100,
+			"days": "M-F",
+			"times": 34,
+			"prerequisites": "f",
+			"action": "Academic Internship"
+		},
+		{
+			"status": "closed",
+			"name": "biomolecular science",
+			"department": "biology",
+			"number": 29,
+			"days": "TTh",
+			"times": 25,
+			"prerequisites": "s",
+			"action": "Academic Internship"
+		},
+		{
+			"status": "Open",
+			"name": "biomedical studies",
+			"department": "biomolecular science",
+			"number": 32,
+			"days": "M-F",
+			"times": 13,
+			"prerequisites": "s",
+			"action": "Independent Research"
+		},
+		{
+			"status": "closed",
+			"name": "art and art history",
+			"department": "asian studies",
+			"number": 48,
+			"days": "TTh",
+			"times": 28,
+			"prerequisites": "s",
+			"action": "Independent Study"
+		},
+		{
+			"status": "Open",
+			"name": "biomedical studies",
+			"department": "africa and the americas",
+			"number": 77,
+			"days": "M-F",
+			"times": 36,
+			"prerequisites": "f",
+			"action": "Class"
+		},
+		{
+			"status": "Open",
+			"name": "biomolecular science",
+			"department": "american conversation",
+			"number": 76,
+			"days": "M-F",
+			"times": 84,
+			"prerequisites": "f",
+			"action": "Academic Internship"
+		},
+		{
+			"status": "closed",
+			"name": "art and art history",
+			"department": "american studies",
+			"number": 77,
+			"days": "TTh",
+			"times": 91,
+			"prerequisites": "f",
+			"action": "Academic Internship"
+		},
+		{
+			"status": "closed",
+			"name": "american conversation",
+			"department": "american studies",
+			"number": 90,
+			"days": "M-F",
+			"times": 82,
 			"prerequisites": "s",
 			"action": "Academic Internship"
 		},
 		{
 			"status": "closed",
+			"name": "american conversation",
+			"department": "asian studies",
+			"number": 68,
+			"days": "M-F",
+			"times": 32,
+			"prerequisites": "f",
+			"action": "Class"
+		},
+		{
+			"status": "closed",
 			"name": "biology",
 			"department": "art and art history",
-			"number": 71,
-			"days": "MWF",
-			"times": 14,
+			"number": 16,
+			"days": "M-F",
+			"times": 16,
 			"prerequisites": "f",
-			"action": "Academic Internship"
+			"action": "Class"
+		},
+		{
+			"status": "closed",
+			"name": "biomedical studies",
+			"department": "africa and the americas",
+			"number": 62,
+			"days": "TTh",
+			"times": 52,
+			"prerequisites": "f",
+			"action": "Independent Research"
+		},
+		{
+			"status": "Open",
+			"name": "asian studies",
+			"department": "africa and the americas",
+			"number": 47,
+			"days": "TTh",
+			"times": 62,
+			"prerequisites": "f",
+			"action": "Class"
+		},
+		{
+			"status": "closed",
+			"name": "africa and the americas",
+			"department": "biomolecular science",
+			"number": 40,
+			"days": "M-F",
+			"times": 96,
+			"prerequisites": "f",
+			"action": "Independent Research"
+		},
+		{
+			"status": "Open",
+			"name": "art and art history",
+			"department": "american conversation",
+			"number": 27,
+			"days": "TTh",
+			"times": 61,
+			"prerequisites": "s",
+			"action": "Independent Research"
 		}
 	]
+
 }
