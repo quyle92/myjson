@@ -1,0 +1,104 @@
+{
+  "courses": [
+		{
+			"status": "Open",
+			"name": "asian studies",
+			"department": "biomedical studies",
+			"number": 58,
+			"days": "MWF",
+			"times": 40,
+			"prerequisites": "f",
+			"action": "Independent Research"
+		},
+		{
+			"status": "closed",
+			"name": "asian studies",
+			"department": "biomolecular science",
+			"number": 60,
+			"days": "M-F",
+			"times": 23,
+			"prerequisites": "f",
+			"action": "Class"
+		},
+		{
+			"status": "Open",
+			"name": "american conversation",
+			"department": "american studies",
+			"number": 5,
+			"days": "MWF",
+			"times": 14,
+			"prerequisites": "f",
+			"action": "Independent Study"
+		},
+		{
+			"status": "Open",
+			"name": "biomedical studies",
+			"department": "art and art history",
+			"number": 95,
+			"days": "M-F",
+			"times": 100,
+			"prerequisites": "f",
+			"action": "Academic Internship"
+		},
+		{
+			"status": "closed",
+			"name": "american studies",
+			"department": "biology",
+			"number": 56,
+			"days": "MWF",
+			"times": 11,
+			"prerequisites": "f",
+			"action": "Class"
+		},
+		{
+			"status": "Open",
+			"name": "asian studies",
+			"department": "asian studies",
+			"number": 24,
+			"days": "M-F",
+			"times": 81,
+			"prerequisites": "s",
+			"action": "Independent Study"
+		},
+		{
+			"status": "closed",
+			"name": "biomedical studies",
+			"department": "biomolecular science",
+			"number": 4,
+			"days": "TTh",
+			"times": 77,
+			"prerequisites": "s",
+			"action": "Independent Study"
+		},
+		{
+			"status": "Open",
+			"name": "africa and the americas",
+			"department": "africa and the americas",
+			"number": 2,
+			"days": "MWF",
+			"times": 27,
+			"prerequisites": "s",
+			"action": "Academic Internship"
+		},
+		{
+			"status": "Open",
+			"name": "biology",
+			"department": "american studies",
+			"number": 17,
+			"days": "M-F",
+			"times": 80,
+			"prerequisites": "s",
+			"action": "Academic Internship"
+		},
+		{
+			"status": "closed",
+			"name": "biology",
+			"department": "art and art history",
+			"number": 71,
+			"days": "MWF",
+			"times": 14,
+			"prerequisites": "f",
+			"action": "Academic Internship"
+		}
+	]
+}
